@@ -1,0 +1,48 @@
+
+{
+    "products": [
+        {
+            "id": "jordanOne",
+            "thumb": "https://a.imagem.app/oDVai2.png",
+            "title": "Air Jordan 1 Mid Dutch Green",
+            "price": 1199,
+            "category": "Air Jordan"
+        },
+        {
+            "id": "jordanTwo",
+            "thumb": "https://a.imagem.app/oDVOrv.png",
+            "title": "Air Jordan 1 High Zoom CMFT Tropical Twist",
+            "price": 1049,
+            "category": "Air Jordan"
+        },
+        {
+            "id": "jordanThree",
+            "thumb": "https://a.imagem.app/oDVWUT.png",
+            "title": "Air Jordan 1 Mid Dutch Green",
+            "price": 1350,
+            "category": "Air Jordan"
+        },
+        {
+            "id": "jordanFor",
+            "thumb": "https://a.imagem.app/oD48k3.png",
+            "title": "Air Jordan 1 Mid GS 'Light Smoke Grey'",
+            "price": 1585,
+            "category": "Air Jordan"
+        },
+        {
+            "id": "jordanFive",
+            "thumb": "https://a.imagem.app/oD4AJZ.png",
+            "title": "Air Jordan 1 Mid SE Bright Citrus",
+            "price": 949.99,
+            "category": "Air Jordan"
+        },
+        {
+            "id": "jordanSix",
+            "thumb": "https://a.imagem.app/oD4bgi.png",
+            "title": "Air Jordan 1 Mid Grey Camo",
+            "price": 999.99,
+            "category": "Air Jordan"
+        }
+        
+    ]
+}
